@@ -1,6 +1,6 @@
 # My Self: Srihith
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srihith+Reddy+Siddareddy;+An+Software+Engineer+;College+Student+;An+OutBus+Student+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srihith+Reddy+Siddareddy;+An+Software+Engineer+;College+Student+;">
 </p>
  💫 Final year CSE student at R.M.K.Engineering College <br><br>💫 A passionate entry-level software engineer from India  <br><br>💫 Currently learning Trending technologies <br><br> 💫 Passionate about implementing and launching new projects.
 
